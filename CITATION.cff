@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+title: "CD28-Treg-IBD-Study: 整合多组学数据研究CD28+调节性T细胞在炎症性肠病中的作用"
+authors:
+  - family-names: "张"
+    given-names: "三"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+    affiliation: "XX大学医学院"
+  - family-names: "李"
+    given-names: "四"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+    affiliation: "XX研究所"
+  - family-names: "王"
+    given-names: "五"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+    affiliation: "XX医院"
+version: 1.0.0
+doi: "10.5281/zenodo.0000000"
+date-released: 2024-09-24
+url: "https://github.com/example/CD28-Treg-IBD-Study"
+license: MIT
+abstract: "CD28-Treg-IBD-Study是一个研究CD28+调节性T细胞(Treg)在炎症性肠病(IBD)中作用的多组学分析项目。该项目整合了遗传学、单细胞RNA测序、代谢组学和微生物组学数据，旨在揭示CD28+Treg细胞在IBD发病机制中的作用，并探索潜在的治疗靶点。"
+keywords:
+  - "炎症性肠病"
+  - "调节性T细胞"
+  - "CD28"
+  - "孟德尔随机化"
+  - "单细胞RNA测序"
+  - "多组学整合"
